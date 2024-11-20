@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRADEEP\\Desktop\\Assigment\\Assigment\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5879366E-B901-48E8-B3D1-EBAC99F0E7AD}|pradeepweb\\pradeepweb.csproj|c:\\users\\pradeep\\desktop\\assigment\\assigment\\task\\pradeepweb\\pages\\categories\\pagess\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5879366E-B901-48E8-B3D1-EBAC99F0E7AD}|pradeepweb\\pradeepweb.csproj|solutionrelative:pradeepweb\\pages\\categories\\pagess\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879366E-B901-48E8-B3D1-EBAC99F0E7AD}|pradeepweb\\pradeepweb.csproj|c:\\users\\pradeep\\desktop\\assigment\\assigment\\task\\pradeepweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5879366E-B901-48E8-B3D1-EBAC99F0E7AD}|pradeepweb\\pradeepweb.csproj|solutionrelative:pradeepweb\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5879366E-B901-48E8-B3D1-EBAC99F0E7AD}|pradeepweb\\pradeepweb.csproj|c:\\users\\pradeep\\desktop\\assigment\\assigment\\task\\pradeepweb\\pages\\categories\\pagess\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5879366E-B901-48E8-B3D1-EBAC99F0E7AD}|pradeepweb\\pradeepweb.csproj|solutionrelative:pradeepweb\\pages\\categories\\pagess\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRADEEP\\Desktop\\Assigment\\Assigment\\Task\\pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml",
+              "RelativeDocumentMoniker": "pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml",
+              "ToolTip": "C:\\Users\\PRADEEP\\Desktop\\Assigment\\Assigment\\Task\\pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml",
+              "RelativeToolTip": "pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T15:40:41.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PRADEEP\\Desktop\\Assigment\\Assigment\\Task\\pradeepweb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pradeepweb\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PRADEEP\\Desktop\\Assigment\\Assigment\\Task\\pradeepweb\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pradeepweb\\Pages\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T12:43:37.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PRADEEP\\Desktop\\Assigment\\Assigment\\Task\\pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml.cs",
+              "RelativeDocumentMoniker": "pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml.cs",
+              "ToolTip": "C:\\Users\\PRADEEP\\Desktop\\Assigment\\Assigment\\Task\\pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml.cs",
+              "RelativeToolTip": "pradeepweb\\Pages\\Categories\\pagess\\Home.cshtml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:16:34.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
